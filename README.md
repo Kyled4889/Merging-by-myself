@@ -1,1 +1,4 @@
-# Merging-by-myself
+this
+is
+some
+more text
